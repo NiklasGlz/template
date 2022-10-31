@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Brandon Grotesque";
+    src: url("./BrandonGrotesque-Bold.ttf") format("ttf");
+    font-weight: 700;
+  }
+
+  @font-face {
+    font-family: "Brandon Grotesque";
+    src: url("./BrandonGrotesque-Regular.ttf") format("ttf");
+    font-weight: 400;
+  }

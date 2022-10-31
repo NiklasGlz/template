@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension type="template" version="3.4" client="site">
+<name>BoostrapTemplate</name>
+<creationDate>08/2022</creationDate>
+<author>Abrio</author>
+<copyright>Abrio</copyright>
+<authorEmail>info@abrio.de</authorEmail>
+<authorUrl>www.Abrio.de</authorUrl>
+<version>3.4</version>
+<description>Bootstrap Grundtemplate</description>
+<files>
+<folder>css</folder>
+<folder>fonts</folder>
+<folder>html</folder>
+<folder>images</folder>
+<folder>js</folder>
+<filename>_error.php</filename>
+<filename>error.php</filename>
+<filename>index.php</filename>
+<filename>favicon.ico</filename>
+<filename>offline.php</filename>
+<filename>template_preview.png</filename>
+<filename>template_thumbnail.png</filename>
+<filename>templateDetails.xml</filename>
+<filename>ReadMe.txt</filename>
+</files>
+<positions>
+	<position>navbar</position>
+	<position>content</position>
+ 	<position>footer</position>
+</positions>
+</extension>

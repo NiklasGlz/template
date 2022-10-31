@@ -1,0 +1,90 @@
+/* helper classes */
+.hidden{
+    display: none!important;
+}
+.p-0{
+    padding: 0;
+}
+.mt-n10{
+    margin-top: -10%;
+}
+
+.mt-6 {
+    margin-top: 2rem;
+}
+
+.mt-8 {
+    margin-top: 4rem;
+}
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+.l-0 {
+    left: 0px;
+}
+
+.t-0 {
+    top: 0px;
+}
+.b-0 {
+    bottom: 0px;
+}
+.w-65{
+    width: 65%;
+}
+.text-white{
+    color:#fff;
+}
+.pb-6{
+    padding-bottom: 6rem;
+}
+.h-800p{
+    height: 800px;
+}
+
+/*sm Breakpoint*/
+@media screen and (min-width:576px) {
+    .pb-sm-6{
+        padding-bottom: 6rem !important;
+    }
+    .w-sm-100{
+        width: 100% !important;
+    }
+   
+}
+/*md Breakpoint*/
+@media screen and (min-width:768px) {
+    .pb-md-6{
+        padding-bottom: 6rem !important;
+    }
+    .w-md-100{
+        width: 100% !important;
+    }
+}
+/*lg Breakpoint*/
+@media screen and (min-width:992px) {
+
+    .pb-lg-6{
+    padding-bottom: 6rem !important;
+    }
+
+    .w-lg-100{
+        width: 100% !important;
+    }
+}
+/*xl Breakpoint*/
+@media screen and (min-width:1200px) {
+    .pb-xl-6{
+        padding-bottom: 6rem !important;
+    }
+    .w-xl-100{
+        width: 100% !important;
+    }
+}
+
+
+/* helper classes end */
